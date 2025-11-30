@@ -108,11 +108,11 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
+
 ## Client
 <img width="815" height="61" alt="image" src="https://github.com/user-attachments/assets/d00103b5-3ab4-48b4-9c60-5a6fc0c57891" />
 ## Server
 <img width="812" height="54" alt="image" src="https://github.com/user-attachments/assets/7ba558d3-caf4-418e-abb0-16bd5891f6c3" />
-
 
 ## Result:
 
